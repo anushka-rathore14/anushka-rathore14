@@ -37,7 +37,6 @@ ensuring data integrity, and extracting actionable insights from complex dataset
 ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2C8EAD?style=for-the-badge&logo=xgboost&logoColor=white)
 
-*(Focus areas: Predictive Modeling, Natural Language Processing (NLP), and Data Analysis)*
 
 ### 🗄 Databases & Tools
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
