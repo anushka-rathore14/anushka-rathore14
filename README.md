@@ -15,7 +15,7 @@
 
 **Computer Science Student | Data Science & Machine Learning**
 
-I am a Computer Science student specializing in data analysis, machine learning, and data engineering. My focus is on developing efficient analytical pipelines, 
+I am a Computer Science student specializing in data analysis, machine learning, data engineering and data structures. My focus is on developing efficient analytical pipelines, 
 ensuring data integrity, and extracting actionable insights from complex datasets.
 
 
