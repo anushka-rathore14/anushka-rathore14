@@ -17,7 +17,7 @@
 
 I am a Computer Science student specializing in data analysis, machine learning, and data engineering. My focus is on developing efficient analytical pipelines, 
 ensuring data integrity, and extracting actionable insights from complex datasets.
----
+
 
 ## 🛠 Tech Stack
 ### 💻 Languages
