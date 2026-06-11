@@ -5,7 +5,7 @@
 <!-- Animated Typing Effect  -->
 <p align="center">
   <a href="https://github.com/anushkarathore14">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Stack+Developer;Data+Scientist;Machine+Learning+Engineer&font=Fira+Code&center=true&width=500&height=45&color=176BEF&vCenter=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Machine+Learning+Engineer&font=Fira+Code&center=true&width=500&height=45&color=176BEF&vCenter=true" alt="Typing SVG" />
   </a>
 </p>
 
